@@ -67,21 +67,6 @@ const LOCATIONS = [
       
     ],
   },
-
-  {
-    id: 'yishun', name: 'Yishun',
-    lat: 1.36990, lng: 103.84950, zoom: 15,
-    center: { lat: 1.375961353068184, lng: 103.84662835139028},
-    kmlFile: '',
-    stations: [
-      { name: 'Ang Mo Kio',  code: 'NS16', color: '#D42E12', lat: 1.36990, lng: 103.84950 },
-      { name: 'Yio Chu Kang', code: 'NS15', color: '#D42E12', lat: 1.38183, lng: 103.84492 },
-      { name: 'Mayflower', code: 'TE6', color: '#9D5B25', lat: 1.37264, lng: 103.83702 },
-    ],
-    places: [
-      
-    ],
-  },
 ];
 
 
